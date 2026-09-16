@@ -70,8 +70,8 @@ body {
 }
 
 .button {
-    height: 50px;
-    width: 50px;
+    height: 60px;
+    width: 60px;
     border-radius: 50%;
     background-color: rgb(117, 117, 186);
 }
